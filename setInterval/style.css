@@ -1,0 +1,19 @@
+h2{
+    background: #2d5ad7;
+    color: wheat;
+    text-align: center;
+    padding: 12px;
+}
+button{
+    font-size: 2rem;
+    padding: 12px;
+    text-align: center;
+    background-color: #ece4fc;
+}
+.btns{
+    text-align: center;
+    margin-top: 2rem;
+}
+p{
+    text-align: center;
+}

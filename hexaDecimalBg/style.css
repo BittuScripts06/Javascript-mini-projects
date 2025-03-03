@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hex-colors{
+    height: 100vh;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    position: absolute;
+    left: 50%;
+    top: 70%;
+}
+.hex-colors h3{
+    margin-top: 2rem;
+    color: #000;
+}

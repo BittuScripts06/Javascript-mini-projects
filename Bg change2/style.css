@@ -1,0 +1,51 @@
+h1 {
+    color: crimson;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes-container {
+    border: 2px solid black;
+    height: 50vh;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
+.boxes-container .box {
+    border: 2px solid rgb(90, 90, 90);
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.box1{
+    background-color: purple;
+}
+.box2{
+    background-color: gray;
+}
+.box3{
+    background-color: rgb(255, 197, 5);
+}
+.box4{
+    background-color: rgb(52, 255, 21);
+}
+.box5{
+    background-color:coral;
+}
+.box6{
+    background-color: rgb(21, 21, 235);
+}
